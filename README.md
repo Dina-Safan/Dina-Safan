@@ -15,8 +15,16 @@ I love combining creativity and clean code to build smooth digital experiences.
 ---
 
 ### 🌐 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/dina-safan-119994209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📧 **Email:** dina.safan83@gmail.com 
+<p>
+  <a href="https://www.linkedin.com/in/dina-safan-119994209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:dina.safan83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 
 ---
 
