@@ -37,7 +37,7 @@ I love combining creativity and clean code to build smooth digital experiences.
 ### 🚀 Featured Projects:
 | Project | Description | Tech |
 |----------|--------------|------|
-| [News Website](https://github.com/Dina-Safan/NewsWebSite) | A dynamic news website using NewsAPI | HTML, CSS, JS |
+| [News Website](https://github.com/Dina-Safan/NewsWebSite.git) | A dynamic news website using NewsAPI | HTML, CSS, JS |
 
 ---
 
