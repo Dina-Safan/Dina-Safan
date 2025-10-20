@@ -1,7 +1,7 @@
 # Hi, I'm Dina Safan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6AA6F8&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+🎓;Frontend+Developer+💻;Cross-Platform+Developer+📱;Always+learning+new+things+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6AA6F8&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+🎓;Frontend+Developer+💻;Always+learning+new+things+🚀" alt="Typing SVG">
 </p>
 
 💻 **Frontend & Cross-Platform Developer**  
