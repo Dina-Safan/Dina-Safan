@@ -29,7 +29,7 @@ I love combining creativity and clean code to build smooth digital experiences.
 ---
 
 ### 🛠️ Tech Stack:
-**Frontend:** HTML5 • CSS3 • JavaScript • React • Vite   
+**Frontend:**HTML5 • CSS3 • JavaScript (ES6) • React  • Vite  
 **UI Tools:** Figma • Bootstrap • Tailwind  
 **Version Control & Deployment:** Git • GitHub 
 
@@ -45,7 +45,8 @@ I love combining creativity and clean code to build smooth digital experiences.
 ### 🚀 Featured Projects:
 | Project | Description | Tech |
 |----------|--------------|------|
-| [News Website](https://github.com/Dina-Safan/NewsWebSite.git) | A dynamic news website using NewsAPI | HTML, CSS, JS |
+| [News Website](https://github.com/Dina-Safan/NewsWebSite.git) | A dynamic news website using NewsAPI | HTML, CSS, JavaScript (ES6), Bootstrap |
+
 
 ---
 
